@@ -1,0 +1,18 @@
+{
+  "name": "fm-plugin-sweetalert",
+  "version": "1.0.0",
+  "author": "FrontendMatter <contact@frontendmatter.com> (http://www.frontendmatter.com)",
+  "license": "UNLICENSED",
+  "main": "js/sweetalert.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrontendMatter/fm-plugin-sweetalert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FrontendMatter/fm-plugin-sweetalert/issues"
+  },
+  "homepage": "https://github.com/FrontendMatter/fm-plugin-sweetalert#readme",
+  "dependencies": {
+    "sweetalert": "^1.1.3"
+  }
+}
